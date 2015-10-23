@@ -13,3 +13,5 @@ notifications:
 
 addons:
     postgresql : "9.2"
+    
+archive: true
